@@ -95,6 +95,7 @@ input[type="reset"],
 	padding: 13px;
 	display: inline-block;
 	border: 4px solid #f1c112;
+	font-size: 1.25em;
 }
 
 .navbar-default .navbar-brand,
@@ -716,7 +717,7 @@ li.wthree_follow {
 .agileits-banner-info h3 {
 	color: #fff;
 	text-transform: uppercase;
-	font-size: 5.2em;
+	font-size: 5em;
 	font-weight: bold;
 	letter-spacing: 5px;
 	text-shadow: 1px 1px 2px rgba(12, 12, 12, 0.57);
@@ -934,7 +935,7 @@ p.agile_des {
 }
 
 .w3layouts_about_grid_left {
-	background: url(../images/ab.jpg) no-repeat 0px 0px;
+	background: url(../images/mm.jpg) no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -1175,6 +1176,9 @@ p.agile_des {
 }
 
 #flexiselDemo1 {
+	display: none;
+}
+#flexiselDemo2{
 	display: none;
 }
 
